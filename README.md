@@ -2,7 +2,7 @@
 
 Instructions to set up:
 1) clone repo in visual studio: https://github.com/lrazcs/DataProcessingStorage
-2) in terminal in visual studio, compile and run the program
+2) in terminal in visual studio, compile and run the program:
    
    mac: g++ -std=c++11 -o memoryDBApp memoryDB.cpp main.cpp && ./memoryDBApp
    
